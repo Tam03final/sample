@@ -1,5 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
+  
 <!DOCTYPE html>
 <html>
 <head>
@@ -13,6 +14,7 @@
 <!-- 인준-->
 <!-- 지훈 -->
 <!-- 이재혁  -->
-새로운 프로젝트를 시작 하겠습니다.
+<!-- 새로운 프로젝트를 시작 하겠습니다. -->
+
 </body>
 </html>
